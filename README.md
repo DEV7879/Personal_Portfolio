@@ -5,7 +5,7 @@
   Portfolio Website Version 1
 </h1>
 <p align="center">
-  The first iteration of <a href="dev69-portfolio.netlify.app" target="_blank">dev69-portfolio.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com" target="_blank">Netlify</a>
+  The first iteration of <a href="https://dev69-portfolio.netlify.app" target="_blank">dev69-portfolio.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com" target="_blank">Netlify</a>
 </p>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give proper credit by linking back to <a href="dev69-portfolio.netlify.app" target="_blank">dev69-portfolio.netlify.app</a>. Thanks!
+Yes, you can fork this repo. Please give proper credit by linking back to <a href="https://dev69-portfolio.netlify.app" target="_blank">dev69-portfolio.netlify.app</a>. Thanks!
 
 ## 🛠 Installation & Set Up
 
