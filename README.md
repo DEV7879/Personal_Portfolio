@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/DEV7879/Personal_Portfolio/blob/GG/src/images/logo.png" width="100" />
+  <img alt="Logo" src="src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   Portfolio Website Version 1
@@ -9,12 +9,12 @@
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/DEV7879/Personal_Portfolio/blob/GG/src/images/Devendra%20Bishnoi%20_%20Software%20Developer%20_%20Data%20Scientist%20-%20Opera%2019-02-2024%2013_46_19.png" />
+  <img alt="Demo" src="src/images/Devendra Bishnoi _ Software Developer _ Data Scientist - Opera 19-02-2024 13_46_19.png" />
 </div>
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Yes, you can fork this repo. Please give proper credit by linking back to [dev69-portfolio.netlify.app]([https://brittanychiang.com](https://dev69-portfolio.netlify.app)). Thanks!
 
 ## 🛠 Installation & Set Up
 
