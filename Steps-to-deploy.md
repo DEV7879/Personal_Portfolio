@@ -18,7 +18,7 @@
 
   - npm run deploy
 
-# Steps to push to github Repository go to main folder and open cmd of that path then enter these below commands. This github repository link  (https://github.com/DEV7879/Personal_Portfolio.git) will be yours new repository github link 
+# Steps to push to github Repository go to main folder and open cmd of that path then enter these below commands. This github repository link  (https://github.com/DEV7879/Personal_Portfolio.git) will be yours new repository github link
 
   - git init
 
