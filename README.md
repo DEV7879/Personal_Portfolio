@@ -14,7 +14,7 @@
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give proper credit by linking back to [dev69-portfolio.netlify.app](https://dev69-portfolio.netlify.app]). Thanks!
+Yes, you can fork this repo. Please give proper credit by linking back to <a href="dev69-portfolio.netlify.app" target="_blank">dev69-portfolio.netlify.app</a>. Thanks!
 
 ## 🛠 Installation & Set Up
 
