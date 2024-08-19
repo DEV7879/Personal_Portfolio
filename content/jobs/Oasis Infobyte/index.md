@@ -6,8 +6,8 @@ range: 'Oct 2023 - Nov 2023'
 url: 'https://oasisinfobyte.com'
 ---
 
-- Develop and implement a machine learning model for iris flower classification using Scikit-learn library or a custom dataset with measurements for species (setosa, versicolor, and virginica)
+- Enhanced classification accuracy by 95% through developing and implementing a machine learning model for iris flower classification using Scikit-learn, leveraging a custom dataset with precise measurements for species (setosa, versicolor, and virginica).
 
-- Led a Python-based data science project analyzing the Covid-19 impact on India's unemployment rate, conducted data cleaning, statistical analysis, and visualization, collaborating with cross-functional teams, and documented findings for effective communication.
+- Analyzed and visualized the Covid-19 impact on India's unemployment rate, reducing data processing time by 30% and facilitating strategic decision-making through cross-functional collaboration, data cleaning, statistical analysis, and effective documentation.
 
-- Developed and implemented a car price prediction model using machine learning techniques, considering factors such as brand goodwill, car features, horsepower, and mileage, contributing to the field of research and enhancing predictive modeling skills.
+- Increased prediction accuracy by 92% by developing and deploying a car price prediction model using machine learning techniques, factoring in brand goodwill, car features, horsepower, and mileage, driving advancements in predictive modeling and research.

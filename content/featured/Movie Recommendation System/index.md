@@ -7,10 +7,12 @@ external: 'https://github.com/DEV7879/Movify'
 tech:
   - Python
   - JavaScript
+  - React JS
+  - PostgreSQL
+  - SQLite
   - Annoy
   - ML Models
   - Flask
-  - PostgreSQL
 showInProjects: true
 ---
 

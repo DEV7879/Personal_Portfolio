@@ -4,9 +4,17 @@ avatar: 'me.jpg'
 skills:
   - Python
   - JavaScript
+  - React JS
   - MLOps
+  - Data Processing
+  - Data Cleaning
   - Data Analysis
-  - Data Visualization 
+  - Data Visualization
+  - Feature Engineering
+  - Model Building
+  - Model Validation
+  - Predictive Analytics
+  - Data-driven Decision Making
   - Pandas
   - Numpy
   - scikit-learn

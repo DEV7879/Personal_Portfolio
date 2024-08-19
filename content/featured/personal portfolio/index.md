@@ -8,7 +8,10 @@ tech:
   - HTML
   - CSS
   - Javascript
-  - React Js
+  - React JS
+  - Node JS
+  - GatsBy
+  - SEO
 
 showInProjects: true
 ---

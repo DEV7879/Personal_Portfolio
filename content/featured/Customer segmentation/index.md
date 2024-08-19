@@ -5,11 +5,13 @@ cover: 'header.jpg'
 github: 'https://github.com/DEV7879/customer_segmentation'
 external: 'https://github.com/DEV7879/customer_segmentation'
 tech:
-  - Python
-  - numpy
-  - pandas
-  - math
-  - matplotlib
+  - RFM Analysis
+  - Pandas
+  - NumPy
+  - Scikit-Learn
+  - Data Processing
+  - Feature Engineering
+  - Cluster Analysis
   - PowerBI
 showInProjects: true
 ---
