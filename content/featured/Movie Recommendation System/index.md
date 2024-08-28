@@ -11,8 +11,6 @@ tech:
   - PostgreSQL
   - SQLite
   - Annoy
-  - ML Models
-  - Flask
 showInProjects: true
 ---
 

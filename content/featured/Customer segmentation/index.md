@@ -9,9 +9,6 @@ tech:
   - Pandas
   - NumPy
   - Scikit-Learn
-  - Data Processing
-  - Feature Engineering
-  - Cluster Analysis
   - PowerBI
 showInProjects: true
 ---
