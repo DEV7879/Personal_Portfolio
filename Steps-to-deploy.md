@@ -1,4 +1,4 @@
-# Steps to push to website deployment on #netlify or new domain. public folder is the build folder for website deployment or netlify deployment 
+# Steps to push website deployment on #netlify or new domain. public folder is the build folder for website deployment or netlify deployment 
 
   - nvm install node 
 
@@ -18,7 +18,7 @@
 
   - npm run deploy
 
-# Steps to push to github Repository go to main folder and open cmd of that path then enter these below commands. This github repository link  (https://github.com/DEV7879/Personal_Portfolio.git) will be yours new repository github link
+# Steps to push github Repository, go to main folder and open cmd of that path then enter these below commands. This github repository link  (https://github.com/DEV7879/Personal_Portfolio.git). It will be yours new repository github link
 
   - git init
 
