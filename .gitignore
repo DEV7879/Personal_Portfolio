@@ -1,16 +1,14 @@
 # Project dependencies
 .cache
-.husky
 node_modules
 yarn-error.log
 package-lock.json
+.nvmrc
 
 # Build directory
 /public
 public/
 .DS_Store
 
-.vscode/
+.vscode
 .editorconfig
-.nvmrc
-prettier.config.js/
